@@ -27,29 +27,29 @@ const CONFIG = {
       title:  "Resume.",
       cat:    "AI / Full-Stack",
       src:    "https://images.unsplash.com/photo-1602407294553-6ac9170b3ed0?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      live:   "https://final-projectfrontend-indol.vercel.app/",       // ✏️ replace
-      github: "https://github.com/Mohit9891/Final_project", // ✏️ replace
+      live:   "https://final-projectfrontend-indol.vercel.app/",       
+      github: "https://github.com/Mohit9891/Final_project", 
     },
     {
       title:  "TradeSwift",
       cat:    "FinTech / Full-Stack",
       src:    "https://plus.unsplash.com/premium_photo-1661610926854-4ac33886230f?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      live:   "https://tradeswift.vercel.app",            // ✏️ replace
-      github: "https://github.com/Mohit9891/tradeswift", // ✏️ replace
+      live:   "https://trade-swift.vercel.app/",            
+      github: "https://github.com/Mohit9891/tradeswift", 
     },
     {
       title:  "StayEase",
       cat:    "MarketPlace / Full-Stack",
       src:    "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      live:   "https://stayease.vercel.app",              // ✏️ replace
-      github: "https://github.com/Mohit9891/stayease",   // ✏️ replace
+      live:   "https://stayease.vercel.app",              
+      github: "https://github.com/Mohit9891/stayease",  
     },
     {
       title:  "DebateGpt",
       cat:    "AI / Conversational",
       src:    "https://images.unsplash.com/photo-1695388474402-ed805a890d8d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      live:   "https://debategpt.vercel.app",             // ✏️ replace
-      github: "https://github.com/Mohit9891/debategpt",  // ✏️ replace
+      live:   "https://debategpt.vercel.app",             
+      github: "https://github.com/Mohit9891/debategpt", 
     },
   ],
 
