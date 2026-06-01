@@ -48,7 +48,7 @@ const CONFIG = {
       title:  "DebateGpt",
       cat:    "AI / Conversational",
       src:    "https://images.unsplash.com/photo-1695388474402-ed805a890d8d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      live:   "https://debategpt.vercel.app",             
+      live:   "https://debate-gpt-six.vercel.app",             
       github: "https://github.com/Mohit9891/debategpt", 
     },
   ],
